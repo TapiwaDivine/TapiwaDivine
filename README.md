@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVASCRIPT, REACT JS, PYTHON, FRONTEND
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me, on tdchipatiko07@gmail.com
+- 📫 How to reach me, on https://www.linkedin.com/in/tapiwa-chipatiko-256028160/
 
 <!---
 TapiwaDivine/TapiwaDivine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
